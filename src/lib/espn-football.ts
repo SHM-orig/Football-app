@@ -53,6 +53,22 @@ const LEAGUES = [
   "ita.1", // Serie A
   "fra.1", // Ligue 1
   "uefa.champions", // Champions League
+  "uefa.europa", // Europa League
+  "uefa.europa.conf", // Conference League
+  "por.1", // Primeira Liga
+  "ned.1", // Eredivisie
+  "bel.1", // Belgian Pro League
+  "tur.1", // Super Lig
+  "aut.1", // Austrian Bundesliga
+  "sco.1", // Scottish Premiership
+  "den.1", // Danish Superliga
+  "nor.1", // Eliteserien
+  "swe.1", // Allsvenskan
+  "usa.1", // MLS
+  "mex.1", // Liga MX
+  "arg.1", // Primera Division
+  "bra.1", // Brasileiro
+  "conmebol.libertadores", // Copa Libertadores
 ];
 
 function toEspnDate(date: string): string {
