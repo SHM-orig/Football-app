@@ -1,4 +1,4 @@
-import { format, isSameDay, parseISO } from "date-fns";
+import { format } from "date-fns";
 import type { MatchSummary } from "./types";
 
 export type MatchTab = "live" | "upcoming" | "finished" | "all";
@@ -28,8 +28,7 @@ export function filterMatches(
   }
 
   if (opts.date) {
-    const d = parseISO(`${opts.date}T12:00:00`);
-    list = list.filter((m) => isSameDay(parseISO(m.kickoff), d));
+    list = list.filter((m) => m.kickoff.slice(0, 10) === opts.date);
   }
 
   if (opts.search?.trim()) {

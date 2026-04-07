@@ -100,7 +100,11 @@ function scoreNum(v?: string): number | null {
   return Number.isFinite(n) ? n : null;
 }
 
-function mapEventToMatch(event: EspnEvent, league?: EspnLeague): MatchSummary | null {
+function mapEventToMatch(
+  event: EspnEvent,
+  leagueCode: string,
+  league?: EspnLeague,
+): MatchSummary | null {
   const comp = event.competitions?.[0];
   if (!comp || !event.id) return null;
   const home = comp.competitors?.find((c) => c.homeAway === "home");
@@ -116,7 +120,7 @@ function mapEventToMatch(event: EspnEvent, league?: EspnLeague): MatchSummary | 
   return {
     id: String(event.id),
     league: {
-      id: String(leagueSrc?.id ?? "espn"),
+      id: leagueCode,
       name: leagueSrc?.name ?? leagueSrc?.shortName ?? "Football",
       country: leagueSrc?.country ?? "",
       logo: leagueSrc?.logos?.[0]?.href,
@@ -140,7 +144,7 @@ async function fetchLeagueScoreboard(league: string, date: string): Promise<Matc
   const data = (await res.json()) as EspnScoreboardResponse;
   const leagueMeta = data.leagues?.[0];
   return (data.events ?? [])
-    .map((e) => mapEventToMatch(e, leagueMeta))
+    .map((e) => mapEventToMatch(e, league, leagueMeta))
     .filter(Boolean) as MatchSummary[];
 }
 
@@ -157,11 +161,13 @@ export async function fetchEspnMatchesByDate(date: string): Promise<MatchSummary
 
 export function getEspnLeagues(): LeagueRef[] {
   return [
-    { id: "eng.1", name: "Premier League", country: "England" },
-    { id: "esp.1", name: "La Liga", country: "Spain" },
-    { id: "ger.1", name: "Bundesliga", country: "Germany" },
-    { id: "ita.1", name: "Serie A", country: "Italy" },
-    { id: "fra.1", name: "Ligue 1", country: "France" },
-    { id: "uefa.champions", name: "Champions League", country: "Europe" },
+    { id: "eng.1", name: "Premier League", country: "England", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/23.png" },
+    { id: "esp.1", name: "La Liga", country: "Spain", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png" },
+    { id: "ger.1", name: "Bundesliga", country: "Germany", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png" },
+    { id: "ita.1", name: "Serie A", country: "Italy", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png" },
+    { id: "fra.1", name: "Ligue 1", country: "France", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png" },
+    { id: "uefa.champions", name: "Champions League", country: "Europe", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/2.png" },
+    { id: "uefa.europa", name: "Europa League", country: "Europe", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/2310.png" },
+    { id: "uefa.europa.conf", name: "Conference League", country: "Europe", logo: "https://a.espncdn.com/i/leaguelogos/soccer/500/8817.png" },
   ];
 }

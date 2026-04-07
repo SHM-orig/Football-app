@@ -48,6 +48,41 @@ interface ApiPlayerResponseRow {
   }>;
 }
 
+function mapApiPlayerRowToProfile(row: ApiPlayerResponseRow): PlayerProfile | null {
+  if (!row.player?.id) return null;
+  const stats = row.statistics?.[0] ?? {};
+  const games = stats.games ?? {};
+  const goals = stats.goals ?? {};
+  const cards = stats.cards ?? {};
+  return {
+    id: String(row.player.id),
+    name: row.player.name ?? "Unknown Player",
+    firstname: row.player.firstname ?? "",
+    lastname: row.player.lastname ?? "",
+    age: row.player.age,
+    nationality: row.player.nationality ?? "Unknown",
+    photo: row.player.photo,
+    team: stats.team
+      ? {
+          id: String(stats.team.id),
+          name: stats.team.name ?? "Unknown Team",
+          logo: stats.team.logo,
+        }
+      : undefined,
+    position: games.position,
+    marketValue: "—",
+    stats: {
+      appearances: games.appearences ?? games.appearances ?? 0,
+      goals: goals.total ?? 0,
+      assists: goals.assists ?? 0,
+      minutes: games.minutes ?? 0,
+      rating: String(games.rating ?? "—"),
+      yellowCards: cards.yellow?.total ?? 0,
+      redCards: cards.red?.total ?? 0,
+    },
+  };
+}
+
 function uniqueById(matches: MatchSummary[]): MatchSummary[] {
   const map = new Map<string, MatchSummary>();
   for (const m of matches) map.set(m.id, m);
@@ -186,7 +221,7 @@ export async function listLeagues(): Promise<LeagueRef[]> {
 }
 
 export async function getStandings(leagueId: string): Promise<StandingRow[]> {
-  if (hasApiSportsKey()) {
+  if (hasApiSportsKey() && /^\d+$/.test(leagueId)) {
     const data = await apiSportsFetch<{
       response?: {
         league?: { id?: number; season?: number };
@@ -267,18 +302,14 @@ export async function searchPlayers(q: string): Promise<PlayerProfile[]> {
   const query = q.trim();
   if (!query) return [];
   if (hasApiSportsKey()) {
-    const data = await apiSportsFetch<{ response?: unknown[] }>("/players", {
+    const data = await apiSportsFetch<{ response?: ApiPlayerResponseRow[] }>("/players", {
       search: query,
     });
-    const rows = data?.response ?? [];
-    const out: PlayerProfile[] = [];
-    for (const row of rows.slice(0, 12)) {
-      const id = String((row as { player?: { id?: number } }).player?.id);
-      if (!id) continue;
-      const full = await getPlayer(id);
-      if (full) out.push(full);
-    }
-    if (out.length) return out;
+    const apiPlayers = (data?.response ?? [])
+      .map(mapApiPlayerRowToProfile)
+      .filter(Boolean) as PlayerProfile[];
+    if (apiPlayers.length) return apiPlayers.slice(0, 20);
   }
-  return searchMockPlayers(query);
+  const mockPlayers = searchMockPlayers(query);
+  return mockPlayers.slice(0, 20);
 }

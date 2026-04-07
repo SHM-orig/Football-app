@@ -477,7 +477,13 @@ const standingsByLeague: Record<string, StandingRow[]> = {
 };
 
 export function getMockStandings(leagueId: string): StandingRow[] {
-  return standingsByLeague[leagueId] ?? standingsByLeague.pl;
+  const aliases: Record<string, string> = {
+    "eng.1": "pl",
+    "esp.1": "laliga",
+    "uefa.champions": "ucl",
+  };
+  const key = aliases[leagueId] ?? leagueId;
+  return standingsByLeague[key] ?? standingsByLeague.pl;
 }
 
 const players: Record<string, PlayerProfile> = {
