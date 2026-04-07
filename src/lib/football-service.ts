@@ -60,7 +60,7 @@ export async function listMatches(params: {
   date?: string | null;
   search?: string | null;
 }): Promise<MatchSummary[]> {
-  const dateStr = params.date ?? new Date().toISOString().slice(0, 10);
+  const dateStr = params.date?.trim() || null;
 
   if (hasApiSportsKey()) {
     const leagueParam = params.leagueId ? { league: params.leagueId } : {};
@@ -79,10 +79,18 @@ export async function listMatches(params: {
     }
 
     if (params.tab !== "live") {
-      const dayData = await apiSportsFetch<FixturesResponse>("/fixtures", {
-        date: dateStr,
-        ...leagueParam,
-      });
+      const dayData = await apiSportsFetch<FixturesResponse>(
+        "/fixtures",
+        dateStr
+          ? {
+              date: dateStr,
+              ...leagueParam,
+            }
+          : {
+              next: 200,
+              ...leagueParam,
+            },
+      );
       chunks.push(
         ...((dayData?.response ?? [])
           .map(mapFixtureToSummary)
@@ -96,9 +104,23 @@ export async function listMatches(params: {
     }
   }
 
-  const espn = await fetchEspnMatchesByDate(dateStr);
-  if (espn.length) {
-    return filterMatches(espn, params);
+  if (dateStr) {
+    const espn = await fetchEspnMatchesByDate(dateStr);
+    if (espn.length) {
+      return filterMatches(espn, params);
+    }
+  } else {
+    const base = new Date();
+    const dates = Array.from({ length: 5 }, (_, i) => {
+      const d = new Date(base);
+      d.setDate(base.getDate() + i);
+      return d.toISOString().slice(0, 10);
+    });
+    const espnChunks = await Promise.all(dates.map((d) => fetchEspnMatchesByDate(d)));
+    const espn = uniqueById(espnChunks.flat());
+    if (espn.length) {
+      return filterMatches(espn, params);
+    }
   }
 
   return filterMatches(getMockMatches(), params);

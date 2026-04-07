@@ -2,7 +2,6 @@
 
 import { MatchList } from "@/components/matches/MatchList";
 import type { LeagueRef, MatchSummary } from "@/lib/types";
-import { todayDateString } from "@/lib/filter-matches";
 import clsx from "clsx";
 import { useCallback, useMemo, useState } from "react";
 import useSWR from "swr";
@@ -18,7 +17,7 @@ const fetcher = (url: string) =>
 export function HomeMatches({ leagues }: { leagues: LeagueRef[] }) {
   const [tab, setTab] = useState<Tab>("all");
   const [leagueId, setLeagueId] = useState<string>("");
-  const [date, setDate] = useState(todayDateString());
+  const [date, setDate] = useState("");
   const [q, setQ] = useState("");
 
   const query = useMemo(() => {
@@ -50,7 +49,7 @@ export function HomeMatches({ leagues }: { leagues: LeagueRef[] }) {
 
   const clearFilters = useCallback(() => {
     setLeagueId("");
-    setDate(todayDateString());
+    setDate("");
     setQ("");
   }, []);
 
