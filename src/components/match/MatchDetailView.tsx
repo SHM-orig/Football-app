@@ -256,16 +256,22 @@ export function MatchDetailView({ id }: { id: string }) {
         </div>
         <div className="surface p-6">
           <h2 className="mb-4 text-lg font-bold">Statistics</h2>
-          <div className="space-y-4">
-            {m.stats.map((s) => (
-              <StatBar
-                key={s.label}
-                label={s.label}
-                home={s.home}
-                away={s.away}
-              />
-            ))}
-          </div>
+          {m.stats.length > 0 ? (
+            <div className="space-y-4">
+              {m.stats.map((s) => (
+                <StatBar
+                  key={s.label}
+                  label={s.label}
+                  home={s.home}
+                  away={s.away}
+                />
+              ))}
+            </div>
+          ) : (
+            <p className="text-sm text-[var(--muted)]">
+              Detailed statistics are unavailable for this fixture source.
+            </p>
+          )}
         </div>
       </section>
 

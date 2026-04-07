@@ -105,13 +105,7 @@ function buildFallbackDetailFromSummary(summary: MatchSummary): MatchDetail {
       home: { formation: undefined, starting: [], substitutes: [] },
       away: { formation: undefined, starting: [], substitutes: [] },
     },
-    stats: [
-      { label: "Ball possession", home: 50, away: 50 },
-      { label: "Total shots", home: 0, away: 0 },
-      { label: "Shots on target", home: 0, away: 0 },
-      { label: "Passes", home: 0, away: 0 },
-      { label: "Fouls", home: 0, away: 0 },
-    ],
+    stats: [],
   };
 }
 
