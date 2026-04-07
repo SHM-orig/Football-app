@@ -89,6 +89,32 @@ function uniqueById(matches: MatchSummary[]): MatchSummary[] {
   return [...map.values()];
 }
 
+function buildFallbackDetailFromSummary(summary: MatchSummary): MatchDetail {
+  return {
+    ...summary,
+    timeline: [
+      {
+        id: "info",
+        minute: "0'",
+        type: "period",
+        team: "home",
+        detail: "Detailed events are currently unavailable for this fixture.",
+      },
+    ],
+    lineups: {
+      home: { formation: undefined, starting: [], substitutes: [] },
+      away: { formation: undefined, starting: [], substitutes: [] },
+    },
+    stats: [
+      { label: "Ball possession", home: 50, away: 50 },
+      { label: "Total shots", home: 0, away: 0 },
+      { label: "Shots on target", home: 0, away: 0 },
+      { label: "Passes", home: 0, away: 0 },
+      { label: "Fouls", home: 0, away: 0 },
+    ],
+  };
+}
+
 export async function listMatches(params: {
   tab?: MatchTab;
   leagueId?: string | null;
@@ -193,7 +219,25 @@ export async function getMatchDetail(id: string): Promise<MatchDetail | null> {
     }
   }
 
-  return getMockMatchDetail(id);
+  const mock = getMockMatchDetail(id);
+  if (mock) return mock;
+
+  // Fallback for non-API-Sports IDs (e.g. ESPN fixtures) so detail page never 404s
+  const aroundToday = Array.from({ length: 7 }, (_, i) => {
+    const d = new Date();
+    d.setDate(d.getDate() - 2 + i);
+    return d.toISOString().slice(0, 10);
+  });
+  const espnBatches = await Promise.all(aroundToday.map((d) => fetchEspnMatchesByDate(d)));
+  const espnMatch = uniqueById(espnBatches.flat()).find((m) => m.id === id);
+  if (espnMatch) return buildFallbackDetailFromSummary(espnMatch);
+
+  // Final fallback: if match exists in current broad listing, synthesize detail.
+  const listed = await listMatches({ tab: "all", date: null, leagueId: null, search: null });
+  const found = listed.find((m) => m.id === id);
+  if (found) return buildFallbackDetailFromSummary(found);
+
+  return null;
 }
 
 export async function listLeagues(): Promise<LeagueRef[]> {
