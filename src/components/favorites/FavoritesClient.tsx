@@ -3,14 +3,18 @@
 import { PlayerCard } from "@/components/player/PlayerCard";
 import { FavoriteStar } from "@/components/ui/FavoriteStar";
 import { useAuth } from "@/contexts/AuthContext";
-import type { PlayerProfile } from "@/lib/types";
+import type { MatchSummary, PlayerProfile } from "@/lib/types";
+import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+
+type TeamLite = { id: string; name: string; logo?: string };
 
 export function FavoritesClient() {
   const { user, firebaseEnabled, profile, loading } = useAuth();
   const [players, setPlayers] = useState<PlayerProfile[]>([]);
   const [loadingPlayers, setLoadingPlayers] = useState(false);
+  const [teams, setTeams] = useState<Record<string, TeamLite>>({});
 
   useEffect(() => {
     const favoriteIds = profile?.favoritePlayerIds ?? [];
@@ -34,6 +38,29 @@ export function FavoritesClient() {
       cancelled = true;
     };
   }, [profile?.favoritePlayerIds]);
+
+  useEffect(() => {
+    const teamIds = profile?.favoriteTeamIds ?? [];
+    if (teamIds.length === 0) {
+      setTeams({});
+      return;
+    }
+    let cancelled = false;
+    (async () => {
+      const res = await fetch("/api/matches?tab=all");
+      if (!res.ok) return;
+      const json = (await res.json()) as { matches?: MatchSummary[] };
+      const byId: Record<string, TeamLite> = {};
+      for (const m of json.matches ?? []) {
+        byId[m.home.id] = { id: m.home.id, name: m.home.name, logo: m.home.logo };
+        byId[m.away.id] = { id: m.away.id, name: m.away.name, logo: m.away.logo };
+      }
+      if (!cancelled) setTeams(byId);
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [profile?.favoriteTeamIds]);
 
   if (!firebaseEnabled) {
     return (
@@ -88,17 +115,32 @@ export function FavoritesClient() {
           </p>
         ) : (
           <ul className="flex flex-wrap gap-2">
-            {teamIds.map((id) => (
+            {teamIds.map((id) => {
+              const team = teams[id];
+              return (
               <li
                 key={id}
                 className="surface flex items-center gap-2 px-3 py-2 text-sm"
               >
-                <span className="font-mono text-xs text-[var(--muted)]">
-                  {id}
+                {team?.logo ? (
+                  <Image
+                    src={team.logo}
+                    alt=""
+                    width={18}
+                    height={18}
+                    className="h-[18px] w-[18px] object-contain"
+                    unoptimized
+                  />
+                ) : (
+                  <div className="h-[18px] w-[18px] rounded-full bg-[var(--background)]" />
+                )}
+                <span className="max-w-[180px] truncate font-medium">
+                  {team?.name ?? id}
                 </span>
                 <FavoriteStar kind="team" id={id} />
               </li>
-            ))}
+              );
+            })}
           </ul>
         )}
       </section>

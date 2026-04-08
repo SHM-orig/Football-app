@@ -6,7 +6,6 @@ import {
   getMockLeagues,
   getMockMatchDetail,
   getMockMatches,
-  getMockPlayer,
   getMockStandings,
   searchMockPlayers,
 } from "./mock-data";
@@ -116,9 +115,10 @@ export async function listMatches(params: {
   search?: string | null;
 }): Promise<MatchSummary[]> {
   const dateStr = params.date?.trim() || null;
+  const apiLeagueId = params.leagueId && /^\d+$/.test(params.leagueId) ? params.leagueId : null;
 
-  if (hasApiSportsKey()) {
-    const leagueParam = params.leagueId ? { league: params.leagueId } : {};
+  if (hasApiSportsKey() && (!params.leagueId || apiLeagueId)) {
+    const leagueParam = apiLeagueId ? { league: apiLeagueId } : {};
     const chunks: MatchSummary[] = [];
 
     if (params.tab === "live" || params.tab === "all") {
@@ -250,8 +250,15 @@ export async function listLeagues(): Promise<LeagueRef[]> {
         country: (l as LeagueRef).country ?? "",
         logo: (l as LeagueRef).logo,
       }))
-      .slice(0, 40);
-    if (mapped.length) return mapped;
+      .slice(0, 120);
+    if (mapped.length) {
+      const majorFallback = getEspnLeagues();
+      const byName = new Set(mapped.map((l) => l.name.toLowerCase()));
+      for (const league of majorFallback) {
+        if (!byName.has(league.name.toLowerCase())) mapped.push(league);
+      }
+      return mapped;
+    }
   }
   const espnLeagues = getEspnLeagues();
   if (espnLeagues.length) return espnLeagues;
@@ -260,34 +267,38 @@ export async function listLeagues(): Promise<LeagueRef[]> {
 
 export async function getStandings(leagueId: string): Promise<StandingRow[]> {
   if (hasApiSportsKey() && /^\d+$/.test(leagueId)) {
-    const data = await apiSportsFetch<{
-      response?: {
-        league?: { id?: number; season?: number };
-        standings?: unknown[][][];
-      }[];
-    }>("/standings", { league: leagueId, season: new Date().getFullYear() });
-    const table = data?.response?.[0]?.standings?.[0];
-    if (Array.isArray(table)) {
-      return table.map((row, idx: number) => {
-        const r = row as ApiStandingsRow;
-        return {
-          rank: r.rank ?? idx + 1,
-          team: {
-            id: String(r.team?.id),
-            name: r.team?.name ?? "Team",
-            logo: r.team?.logo,
-          },
-          played: r.all?.played ?? 0,
-          won: r.all?.win ?? 0,
-          drawn: r.all?.draw ?? 0,
-          lost: r.all?.lose ?? 0,
-          goalsFor: r.all?.goals?.for ?? 0,
-          goalsAgainst: r.all?.goals?.against ?? 0,
-          points: r.points ?? 0,
-          form: r.form ? r.form.split("") : undefined,
-        };
-      });
+    const seasons = [new Date().getFullYear(), new Date().getFullYear() - 1];
+    for (const season of seasons) {
+      const data = await apiSportsFetch<{
+        response?: {
+          league?: { id?: number; season?: number };
+          standings?: unknown[][][];
+        }[];
+      }>("/standings", { league: leagueId, season });
+      const table = data?.response?.[0]?.standings?.[0];
+      if (Array.isArray(table)) {
+        return table.map((row, idx: number) => {
+          const r = row as ApiStandingsRow;
+          return {
+            rank: r.rank ?? idx + 1,
+            team: {
+              id: String(r.team?.id),
+              name: r.team?.name ?? "Team",
+              logo: r.team?.logo,
+            },
+            played: r.all?.played ?? 0,
+            won: r.all?.win ?? 0,
+            drawn: r.all?.draw ?? 0,
+            lost: r.all?.lose ?? 0,
+            goalsFor: r.all?.goals?.for ?? 0,
+            goalsAgainst: r.all?.goals?.against ?? 0,
+            points: r.points ?? 0,
+            form: r.form ? r.form.split("") : undefined,
+          };
+        });
+      }
     }
+    return [];
   }
   return getMockStandings(leagueId);
 }
@@ -333,7 +344,7 @@ export async function getPlayer(id: string): Promise<PlayerProfile | null> {
       };
     }
   }
-  return getMockPlayer(id);
+  return null;
 }
 
 export async function searchPlayers(q: string): Promise<PlayerProfile[]> {
@@ -347,6 +358,7 @@ export async function searchPlayers(q: string): Promise<PlayerProfile[]> {
       .map(mapApiPlayerRowToProfile)
       .filter(Boolean) as PlayerProfile[];
     if (apiPlayers.length) return apiPlayers.slice(0, 20);
+    return [];
   }
   const mockPlayers = searchMockPlayers(query);
   return mockPlayers.slice(0, 20);

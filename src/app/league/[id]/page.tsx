@@ -30,7 +30,13 @@ export default async function LeaguePage({
           <p className="mt-1 text-sm text-[var(--muted)]">{league.country}</p>
         )}
       </div>
-      <LeagueTable rows={standings} />
+      {standings.length > 0 ? (
+        <LeagueTable rows={standings} />
+      ) : (
+        <div className="surface p-8 text-sm text-[var(--muted)]">
+          Standings are currently unavailable for this league.
+        </div>
+      )}
     </div>
   );
 }

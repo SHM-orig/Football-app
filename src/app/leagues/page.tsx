@@ -18,7 +18,7 @@ export default async function LeaguesPage() {
           <li key={l.id}>
             <Link
               href={`/league/${l.id}`}
-              className="surface flex items-center gap-3 p-4 transition hover:ring-1 hover:ring-[var(--accent)]/40"
+              className="surface flex min-h-20 items-center gap-3 p-4 transition hover:ring-1 hover:ring-[var(--accent)]/40"
             >
               {l.logo ? (
                 <Image
@@ -33,7 +33,7 @@ export default async function LeaguesPage() {
                 <div className="h-10 w-10 rounded-full bg-[var(--background)]" />
               )}
               <div className="min-w-0 flex-1">
-                <p className="truncate font-semibold">{l.name}</p>
+                <p className="truncate whitespace-nowrap font-semibold">{l.name}</p>
                 <p className="truncate text-sm text-[var(--muted)]">
                   {l.country}
                   {l.season ? ` · ${l.season}` : ""}

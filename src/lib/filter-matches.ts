@@ -3,6 +3,14 @@ import type { MatchSummary } from "./types";
 
 export type MatchTab = "live" | "upcoming" | "finished" | "all";
 
+function normalize(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]/g, "");
+}
+
 export function filterMatches(
   matches: MatchSummary[],
   opts: {
@@ -32,12 +40,21 @@ export function filterMatches(
   }
 
   if (opts.search?.trim()) {
-    const q = opts.search.trim().toLowerCase();
+    const qRaw = opts.search.trim();
+    const q = normalize(qRaw);
+    const aliases =
+      q === "laliga"
+        ? ["laliga", "primeradivision", "spanishlaliga"]
+        : q === "championsleague"
+          ? ["championsleague", "uefachampionsleague", "ucl"]
+          : [q];
     list = list.filter(
       (m) =>
-        m.home.name.toLowerCase().includes(q) ||
-        m.away.name.toLowerCase().includes(q) ||
-        m.league.name.toLowerCase().includes(q),
+        aliases.some((needle) =>
+          normalize(
+            `${m.home.name} ${m.away.name} ${m.league.name} ${m.league.country}`,
+          ).includes(needle),
+        ),
     );
   }
 

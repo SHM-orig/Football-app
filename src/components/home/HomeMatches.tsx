@@ -1,6 +1,7 @@
 "use client";
 
 import { MatchList } from "@/components/matches/MatchList";
+import { todayDateString } from "@/lib/filter-matches";
 import type { LeagueRef, MatchSummary } from "@/lib/types";
 import clsx from "clsx";
 import { useCallback, useMemo, useState } from "react";
@@ -17,7 +18,7 @@ const fetcher = (url: string) =>
 export function HomeMatches({ leagues }: { leagues: LeagueRef[] }) {
   const [tab, setTab] = useState<Tab>("all");
   const [leagueId, setLeagueId] = useState<string>("");
-  const [date, setDate] = useState("");
+  const [date, setDate] = useState(todayDateString());
   const [q, setQ] = useState("");
 
   const query = useMemo(() => {
@@ -29,7 +30,7 @@ export function HomeMatches({ leagues }: { leagues: LeagueRef[] }) {
     return p.toString();
   }, [tab, leagueId, date, q]);
 
-  const { data, error, isLoading, mutate } = useSWR<{ matches: MatchSummary[] }>(
+  const { data, error, isLoading } = useSWR<{ matches: MatchSummary[] }>(
     `/api/matches?${query}`,
     fetcher,
     {
@@ -49,7 +50,7 @@ export function HomeMatches({ leagues }: { leagues: LeagueRef[] }) {
 
   const clearFilters = useCallback(() => {
     setLeagueId("");
-    setDate("");
+    setDate(todayDateString());
     setQ("");
   }, []);
 
@@ -64,13 +65,6 @@ export function HomeMatches({ leagues }: { leagues: LeagueRef[] }) {
             Live updates every 30s when browsing live or all matches.
           </p>
         </div>
-        <button
-          type="button"
-          onClick={() => mutate()}
-          className="self-start rounded-xl border border-[var(--card-border)] px-4 py-2 text-sm font-medium hover:border-[var(--accent)]"
-        >
-          Refresh
-        </button>
       </div>
 
       <div className="surface flex flex-col gap-4 p-4 sm:flex-row sm:flex-wrap sm:items-center">
