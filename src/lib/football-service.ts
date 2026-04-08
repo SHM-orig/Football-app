@@ -2,12 +2,12 @@ import { apiSportsFetch, hasApiSportsKey } from "./api-sports";
 import { buildDetailFromApiParts, mapFixtureToSummary } from "./api-sports-map";
 import { fetchEspnMatchesByDate, getEspnLeagues } from "./espn-football";
 import { filterMatches, type MatchTab } from "./filter-matches";
+import { getIndexedPlayerById, searchIndexedPlayers } from "./player-index";
 import {
   getMockLeagues,
   getMockMatchDetail,
   getMockMatches,
   getMockStandings,
-  searchMockPlayers,
 } from "./mock-data";
 import type { LeagueRef, MatchDetail, MatchSummary, PlayerProfile, StandingRow } from "./types";
 
@@ -304,6 +304,9 @@ export async function getStandings(leagueId: string): Promise<StandingRow[]> {
 }
 
 export async function getPlayer(id: string): Promise<PlayerProfile | null> {
+  const indexed = await getIndexedPlayerById(id);
+  if (indexed) return indexed;
+
   if (hasApiSportsKey()) {
     const prof = await apiSportsFetch<{ response?: unknown[] }>("/players", {
       id,
@@ -350,6 +353,10 @@ export async function getPlayer(id: string): Promise<PlayerProfile | null> {
 export async function searchPlayers(q: string): Promise<PlayerProfile[]> {
   const query = q.trim();
   if (!query) return [];
+
+  const indexed = await searchIndexedPlayers(query);
+  if (indexed.length) return indexed.slice(0, 20);
+
   if (hasApiSportsKey()) {
     const data = await apiSportsFetch<{ response?: ApiPlayerResponseRow[] }>("/players", {
       search: query,
@@ -360,6 +367,5 @@ export async function searchPlayers(q: string): Promise<PlayerProfile[]> {
     if (apiPlayers.length) return apiPlayers.slice(0, 20);
     return [];
   }
-  const mockPlayers = searchMockPlayers(query);
-  return mockPlayers.slice(0, 20);
+  return [];
 }

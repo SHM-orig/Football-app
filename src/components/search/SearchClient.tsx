@@ -13,16 +13,19 @@ export function SearchClient() {
   const [players, setPlayers] = useState<PlayerProfile[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [hint, setHint] = useState<string | null>(null);
 
   const runSearch = useCallback(async (query: string) => {
     const t = query.trim();
     if (!t) {
       setPlayers([]);
       setError(null);
+      setHint(null);
       return;
     }
     setLoading(true);
     setError(null);
+    setHint(null);
     try {
       const res = await fetch(
         `/api/players/search?q=${encodeURIComponent(t)}`,
@@ -30,8 +33,16 @@ export function SearchClient() {
       if (!res.ok) {
         throw new Error("Failed to search players.");
       }
-      const data = await res.json();
+      const data = (await res.json()) as {
+        players?: PlayerProfile[];
+        error?: string | null;
+        indexCount?: number;
+      };
       setPlayers(data.players ?? []);
+      setError(data.error ?? null);
+      if ((data.indexCount ?? 0) === 0) {
+        setHint("Tip: run `npm run sync:players` to build the local player index.");
+      }
     } catch {
       setPlayers([]);
       setError("Could not load players. Try again.");
@@ -51,6 +62,7 @@ export function SearchClient() {
       if (!t) {
         setPlayers([]);
         setError(null);
+        setHint(null);
         router.replace("/search");
         return;
       }
@@ -66,8 +78,7 @@ export function SearchClient() {
       <div>
         <h1 className="text-2xl font-bold sm:text-3xl">Search</h1>
         <p className="mt-1 text-sm text-[var(--muted)]">
-          Find players by name. Try “Saka”, “Palmer”, or “Bellingham” in demo
-          mode.
+          Find players by name from your synced index and live API data.
         </p>
       </div>
 
@@ -101,6 +112,7 @@ export function SearchClient() {
         <p className="text-sm text-[var(--muted)]">No players found.</p>
       )}
       {error && <p className="text-sm text-red-500">{error}</p>}
+      {hint && <p className="text-xs text-[var(--muted)]">{hint}</p>}
 
       <ul className="grid gap-3 sm:grid-cols-2">
         {players.map((p) => (
