@@ -12,7 +12,10 @@ function loadEnvLocal() {
       const eq = trimmed.indexOf("=");
       if (eq <= 0) continue;
       const k = trimmed.slice(0, eq).trim();
-      const v = trimmed.slice(eq + 1).trim().replace(/^['"]|['"]$/g, "");
+      const v = trimmed
+        .slice(eq + 1)
+        .trim()
+        .replace(/^['"]|['"]$/g, "");
       if (!(k in process.env)) process.env[k] = v;
     }
   } catch {
@@ -29,6 +32,7 @@ if (!key) {
 }
 
 const BASE = "https://v3.football.api-sports.io";
+const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 const season = new Date().getFullYear();
 const leagueIds = [39, 140, 2, 203, 78, 135, 61];
 
@@ -87,7 +91,7 @@ async function main() {
   const map = new Map();
   let hitRateLimit = false;
   const seasons = [season, season - 1, season - 2, season - 3].filter(
-    (s, i, arr) => s >= 2022 && arr.indexOf(s) === i,
+    (s, i, arr) => s >= 2022 && arr.indexOf(s) === i
   );
   for (const leagueId of leagueIds) {
     if (hitRateLimit) break;
@@ -113,6 +117,8 @@ async function main() {
         let squadData;
         try {
           squadData = await api("/players/squads", { team: team.id });
+
+          await delay(7000);
         } catch (err) {
           const message = err instanceof Error ? err.message : String(err);
           if (message.includes("request limit for the day")) {
@@ -145,17 +151,17 @@ async function main() {
   await writeFile(
     path.join(dataDir, "player-index.json"),
     `${JSON.stringify(out, null, 2)}\n`,
-    "utf8",
+    "utf8"
   );
   console.log(`Synced ${out.players.length} players.`);
   if (out.players.length === 0) {
     console.log(
-      "No players returned. Your API plan/key may not include players endpoints for these leagues.",
+      "No players returned. Your API plan/key may not include players endpoints for these leagues."
     );
   }
   if (hitRateLimit) {
     console.log(
-      "Stopped early because daily API request limit was reached. Run again tomorrow.",
+      "Stopped early because daily API request limit was reached. Run again tomorrow."
     );
   }
 }
