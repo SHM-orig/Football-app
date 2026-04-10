@@ -18,6 +18,11 @@ export const metadata: Metadata = {
   title: "Pitchside — Live scores & football stats",
   description:
     "Modern football scores, lineups, stats, and tables. Sign in to sync favorites.",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
