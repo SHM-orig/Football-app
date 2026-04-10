@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T11:05:42.135Z",
+  "updatedAt": "2026-04-10T09:41:27.550Z",
   "players": [
     {
       "id": "46813",
@@ -202,31 +202,6 @@
       }
     },
     {
-      "id": "453792",
-      "name": "A. Bamba",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/453792.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "18927",
       "name": "A. Barnes",
       "firstname": "",
@@ -327,31 +302,6 @@
       }
     },
     {
-      "id": "2096",
-      "name": "A. Bodart",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2096.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "336998",
       "name": "A. Boiro",
       "firstname": "",
@@ -365,31 +315,6 @@
         "logo": "https://media.api-sports.io/football/teams/531.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "438688",
-      "name": "A. Bouaddi",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/438688.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -590,31 +515,6 @@
         "logo": "https://media.api-sports.io/football/teams/62.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "509",
-      "name": "A. Davies",
-      "firstname": "",
-      "lastname": "",
-      "age": 25,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/509.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -927,31 +827,6 @@
       }
     },
     {
-      "id": "109",
-      "name": "A. Golovin",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/109.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "896",
       "name": "A. Gomes",
       "firstname": "",
@@ -1090,31 +965,6 @@
         "logo": "https://media.api-sports.io/football/teams/65.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "9",
-      "name": "A. Hakimi",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/9.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -1527,31 +1377,6 @@
       }
     },
     {
-      "id": "1567",
-      "name": "A. Mandi",
-      "firstname": "",
-      "lastname": "",
-      "age": 34,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/1567.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "37236",
       "name": "A. Matusiwa",
       "firstname": "",
@@ -1640,31 +1465,6 @@
         "logo": "https://media.api-sports.io/football/teams/546.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "26292",
-      "name": "A. Meyer",
-      "firstname": "",
-      "lastname": "",
-      "age": 34,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/26292.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -1890,31 +1690,6 @@
         "logo": "https://media.api-sports.io/football/teams/532.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "328033",
-      "name": "A. Pavlović",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/328033.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -2290,31 +2065,6 @@
         "logo": "https://media.api-sports.io/football/teams/530.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "491103",
-      "name": "A. Tape",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/491103.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -3277,31 +3027,6 @@
       }
     },
     {
-      "id": "47516",
-      "name": "Aleix García",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/47516.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "161928",
       "name": "Alejandro Balde",
       "firstname": "",
@@ -3540,31 +3265,6 @@
         "logo": "https://media.api-sports.io/football/teams/548.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "563",
-      "name": "Álex Grimaldo",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/563.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -3852,31 +3552,6 @@
       }
     },
     {
-      "id": "142691",
-      "name": "Alexsandro Ribeiro",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/142691.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "288129",
       "name": "Alfie Shane McNally",
       "firstname": "",
@@ -3965,31 +3640,6 @@
         "logo": "https://media.api-sports.io/football/teams/40.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "394667",
-      "name": "Almugera Raouf Mohammed Kabar",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/394667.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -4214,7 +3864,7 @@
         "name": "Granada CF",
         "logo": "https://media.api-sports.io/football/teams/715.png"
       },
-      "position": "Attacker",
+      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -4627,31 +4277,6 @@
       }
     },
     {
-      "id": "135775",
-      "name": "Ansu Fati",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/135775.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "162686",
       "name": "Antonio Blanco",
       "firstname": "",
@@ -4902,31 +4527,6 @@
       }
     },
     {
-      "id": "352375",
-      "name": "Arthur",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/352375.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "522649",
       "name": "Arturo Rodríguez",
       "firstname": "",
@@ -5077,31 +4677,6 @@
       }
     },
     {
-      "id": "2204",
-      "name": "B. André",
-      "firstname": "",
-      "lastname": "",
-      "age": 35,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2204.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "585715",
       "name": "B. Auguste",
       "firstname": "",
@@ -5202,31 +4777,6 @@
       }
     },
     {
-      "id": "161904",
-      "name": "B. Barcola",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/161904.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "453101",
       "name": "B. Burrows",
       "firstname": "",
@@ -5265,31 +4815,6 @@
         "logo": "https://media.api-sports.io/football/teams/52.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "20546",
-      "name": "B. Chardonnet",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/20546.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -5389,7 +4914,7 @@
         "name": "Granada CF",
         "logo": "https://media.api-sports.io/football/teams/715.png"
       },
-      "position": "Defender",
+      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -5465,31 +4990,6 @@
         "logo": "https://media.api-sports.io/football/teams/45.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "486523",
-      "name": "B. Hawighorst",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/486523.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -5627,31 +5127,6 @@
       }
     },
     {
-      "id": "399893",
-      "name": "B. Kiwa",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/399893.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "335921",
       "name": "B. Kovačević",
       "firstname": "",
@@ -5715,31 +5190,6 @@
         "logo": "https://media.api-sports.io/football/teams/36.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "274267",
-      "name": "B. Locko",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/274267.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -5865,31 +5315,6 @@
         "logo": "https://media.api-sports.io/football/teams/724.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "1337",
-      "name": "B. Özer",
-      "firstname": "",
-      "lastname": "",
-      "age": 25,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/1337.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -6165,56 +5590,6 @@
         "logo": "https://media.api-sports.io/football/teams/33.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "307835",
-      "name": "Beraldo",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/307835.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "629780",
-      "name": "Bernard Geraux Noan Didier",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/629780.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -6752,31 +6127,6 @@
       }
     },
     {
-      "id": "138935",
-      "name": "C. Chukwuemeka",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/138935.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "610742",
       "name": "C. De Roa",
       "firstname": "",
@@ -7215,56 +6565,6 @@
         "logo": "https://media.api-sports.io/football/teams/35.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "371916",
-      "name": "C. Mawissa Elebi",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/371916.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "375",
-      "name": "C. Mbemba",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/375.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -7852,31 +7152,6 @@
       }
     },
     {
-      "id": "37151",
-      "name": "C. Verdonk",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/37151.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "19541",
       "name": "C. Walton",
       "firstname": "",
@@ -7940,31 +7215,6 @@
         "logo": "https://media.api-sports.io/football/teams/65.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "10316",
-      "name": "Caio Henrique",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/10316.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -8277,31 +7527,6 @@
       }
     },
     {
-      "id": "524214",
-      "name": "Cassiano Kiala",
-      "firstname": "",
-      "lastname": "",
-      "age": 16,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/524214.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "47533",
       "name": "Catena",
       "firstname": "",
@@ -8465,31 +7690,6 @@
         "logo": "https://media.api-sports.io/football/teams/52.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "505295",
-      "name": "Christian Kofane",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/505295.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -8827,31 +8027,6 @@
       }
     },
     {
-      "id": "610763",
-      "name": "D. Boly",
-      "firstname": "",
-      "lastname": "",
-      "age": 16,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/610763.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "18870",
       "name": "D. Brooks",
       "firstname": "",
@@ -9052,31 +8227,6 @@
       }
     },
     {
-      "id": "343027",
-      "name": "D. Doué",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/343027.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "47251",
       "name": "D. Foulquier",
       "firstname": "",
@@ -9163,31 +8313,6 @@
         "id": "537",
         "name": "Leganes",
         "logo": "https://media.api-sports.io/football/teams/537.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "302868",
-      "name": "D. Guindo",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/302868.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -9602,31 +8727,6 @@
       }
     },
     {
-      "id": "567867",
-      "name": "D. Ofli",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/567867.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "284797",
       "name": "D. Ouattara",
       "firstname": "",
@@ -9852,31 +8952,6 @@
       }
     },
     {
-      "id": "198654",
-      "name": "D. Svensson",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/198654.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "1096",
       "name": "D. Szoboszlai",
       "firstname": "",
@@ -9913,31 +8988,6 @@
         "id": "47",
         "name": "Tottenham",
         "logo": "https://media.api-sports.io/football/teams/47.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "1149",
-      "name": "D. Upamecano",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/1149.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -9990,31 +9040,6 @@
         "logo": "https://media.api-sports.io/football/teams/51.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "2810",
-      "name": "D. Zakaria",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2810.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -10413,31 +9438,6 @@
         "id": "49",
         "name": "Chelsea",
         "logo": "https://media.api-sports.io/football/teams/49.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "449689",
-      "name": "David Daiber",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/449689.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -11202,31 +10202,6 @@
       }
     },
     {
-      "id": "343320",
-      "name": "E. Ben Seghir",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/343320.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "19071",
       "name": "E. Buendía",
       "firstname": "",
@@ -11240,31 +10215,6 @@
         "logo": "https://media.api-sports.io/football/teams/66.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "567959",
-      "name": "E. C. Owen",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/567959.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -11302,31 +10252,6 @@
       }
     },
     {
-      "id": "864",
-      "name": "E. Can",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/864.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "48372",
       "name": "E. Cömert",
       "firstname": "",
@@ -11338,31 +10263,6 @@
         "id": "532",
         "name": "Valencia",
         "logo": "https://media.api-sports.io/football/teams/532.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "175",
-      "name": "E. Dier",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/175.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -11463,31 +10363,6 @@
         "id": "49",
         "name": "Chelsea",
         "logo": "https://media.api-sports.io/football/teams/49.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "237087",
-      "name": "E. Fernández",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/237087.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -11802,31 +10677,6 @@
       }
     },
     {
-      "id": "386287",
-      "name": "E. Mbappé",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/386287.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "601858",
       "name": "E. Munoz",
       "firstname": "",
@@ -11877,31 +10727,6 @@
       }
     },
     {
-      "id": "6002",
-      "name": "E. Palacios",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/6002.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "19789",
       "name": "E. Pinnock",
       "firstname": "",
@@ -11927,31 +10752,6 @@
       }
     },
     {
-      "id": "312840",
-      "name": "E. Poku",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/312840.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "1161",
       "name": "E. Smith Rowe",
       "firstname": "",
@@ -11965,31 +10765,6 @@
         "logo": "https://media.api-sports.io/football/teams/36.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "41150",
-      "name": "E. Tapsoba",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/41150.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -12152,31 +10927,6 @@
       }
     },
     {
-      "id": "420351",
-      "name": "Elias  Benkara",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/420351.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "440133",
       "name": "Elías Romero",
       "firstname": "",
@@ -12327,31 +11077,6 @@
       }
     },
     {
-      "id": "648615",
-      "name": "Erblin Osmani",
-      "firstname": "",
-      "lastname": "",
-      "age": 16,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/648615.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "619",
       "name": "Eric García",
       "firstname": "",
@@ -12490,31 +11215,6 @@
         "logo": "https://media.api-sports.io/football/teams/41.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "138835",
-      "name": "F. Balogun",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/138835.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -12877,31 +11577,6 @@
       }
     },
     {
-      "id": "341839",
-      "name": "F. Mané",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/341839.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "653",
       "name": "F. Mendy",
       "firstname": "",
@@ -12913,56 +11588,6 @@
         "id": "541",
         "name": "Real Madrid",
         "logo": "https://media.api-sports.io/football/teams/541.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "637",
-      "name": "F. Nmecha",
-      "firstname": "",
-      "lastname": "",
-      "age": 25,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/637.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "628356",
-      "name": "F. Pavic",
-      "firstname": "",
-      "lastname": "",
-      "age": 15,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/628356.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -13202,31 +11827,6 @@
       }
     },
     {
-      "id": "328",
-      "name": "Fabián Ruiz",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/328.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "41208",
       "name": "Fábio Cardoso",
       "firstname": "",
@@ -13263,56 +11863,6 @@
         "id": "55",
         "name": "Brentford",
         "logo": "https://media.api-sports.io/football/teams/55.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "129791",
-      "name": "Fábio Silva",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/129791.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "135749",
-      "name": "Félix Correia",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/135749.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -13702,56 +12252,6 @@
       }
     },
     {
-      "id": "21248",
-      "name": "G. Coudert",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/21248.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "568043",
-      "name": "G. Della Rovere",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/568043.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "1622",
       "name": "G. Donnarumma",
       "firstname": "",
@@ -13840,31 +12340,6 @@
         "logo": "https://media.api-sports.io/football/teams/52.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "25282",
-      "name": "G. Kobel",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/25282.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -14013,31 +12488,6 @@
         "id": "533",
         "name": "Villarreal",
         "logo": "https://media.api-sports.io/football/teams/533.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "20732",
-      "name": "G. Perrin",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/20732.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
       },
       "position": "Attacker",
       "marketValue": "—",
@@ -14602,31 +13052,6 @@
       }
     },
     {
-      "id": "41585",
-      "name": "Gonçalo Ramos",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/41585.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "336711",
       "name": "Gonzalo García",
       "firstname": "",
@@ -15052,31 +13477,6 @@
       }
     },
     {
-      "id": "67889",
-      "name": "H. Haraldsson",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/67889.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "392610",
       "name": "H. Howell",
       "firstname": "",
@@ -15090,81 +13490,6 @@
         "logo": "https://media.api-sports.io/football/teams/51.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "306979",
-      "name": "H. Igamane",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/306979.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "32893",
-      "name": "H. Ito",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/32893.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "184",
-      "name": "H. Kane",
-      "firstname": "",
-      "lastname": "",
-      "age": 32,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/184.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -15202,31 +13527,6 @@
       }
     },
     {
-      "id": "20558",
-      "name": "H. Magnetti",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/20558.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "2935",
       "name": "H. Maguire",
       "firstname": "",
@@ -15240,31 +13540,6 @@
         "logo": "https://media.api-sports.io/football/teams/33.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "449153",
-      "name": "H. Makalou",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/449153.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -16102,56 +14377,6 @@
       }
     },
     {
-      "id": "380587",
-      "name": "I. Maza",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/380587.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "446249",
-      "name": "I. Mbaye",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/446249.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "601690",
       "name": "I. Medina",
       "firstname": "",
@@ -16377,31 +14602,6 @@
       }
     },
     {
-      "id": "531402",
-      "name": "I. Toure",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/531402.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "47294",
       "name": "I. Williams",
       "firstname": "",
@@ -16415,31 +14615,6 @@
         "logo": "https://media.api-sports.io/football/teams/531.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "161671",
-      "name": "I. Zabarnyi",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/161671.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -16515,31 +14690,6 @@
         "logo": "https://media.api-sports.io/football/teams/531.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "554352",
-      "name": "Ibrahim Yayiya Kante",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/554352.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -17477,56 +15627,6 @@
       }
     },
     {
-      "id": "326757",
-      "name": "J. Bellingham",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/326757.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "37246",
-      "name": "J. Blaswich",
-      "firstname": "",
-      "lastname": "",
-      "age": 34,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/37246.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "19428",
       "name": "J. Bowen",
       "firstname": "",
@@ -17538,31 +15638,6 @@
         "id": "48",
         "name": "West Ham",
         "logo": "https://media.api-sports.io/football/teams/48.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "984",
-      "name": "J. Brandt",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/984.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -17802,31 +15877,6 @@
       }
     },
     {
-      "id": "128287",
-      "name": "J. Chotard",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/128287.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "20189",
       "name": "J. Clark",
       "firstname": "",
@@ -17965,31 +16015,6 @@
         "logo": "https://media.api-sports.io/football/teams/724.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "90594",
-      "name": "J. Dina Ebimbe",
-      "firstname": "",
-      "lastname": "",
-      "age": 25,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/90594.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -18502,31 +16527,6 @@
       }
     },
     {
-      "id": "25635",
-      "name": "J. Hofmann",
-      "firstname": "",
-      "lastname": "",
-      "age": 33,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/25635.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "328074",
       "name": "J. James",
       "firstname": "",
@@ -18590,31 +16590,6 @@
         "logo": "https://media.api-sports.io/football/teams/798.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "502",
-      "name": "J. Kimmich",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/502.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -18902,31 +16877,6 @@
       }
     },
     {
-      "id": "493409",
-      "name": "J. Mensah",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/493409.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "296",
       "name": "J. Milner",
       "firstname": "",
@@ -19063,31 +17013,6 @@
         "id": "34",
         "name": "Newcastle",
         "logo": "https://media.api-sports.io/football/teams/34.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "181812",
-      "name": "J. Musiala",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/181812.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -19277,31 +17202,6 @@
       }
     },
     {
-      "id": "2801",
-      "name": "J. Omlin",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2801.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "457214",
       "name": "J. Onstein",
       "firstname": "",
@@ -19415,31 +17315,6 @@
         "logo": "https://media.api-sports.io/football/teams/42.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "158698",
-      "name": "J. Quansah",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/158698.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -19627,31 +17502,6 @@
       }
     },
     {
-      "id": "24845",
-      "name": "J. Ryerson",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/24845.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "18",
       "name": "J. Sancho",
       "firstname": "",
@@ -19665,31 +17515,6 @@
         "logo": "https://media.api-sports.io/football/teams/66.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "568379",
-      "name": "J. Schlich",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/568379.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -19790,56 +17615,6 @@
         "logo": "https://media.api-sports.io/football/teams/35.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "125171",
-      "name": "J. Stanišić",
-      "firstname": "",
-      "lastname": "",
-      "age": 25,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/125171.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "440070",
-      "name": "J. Stawiecki",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/440070.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -20002,31 +17777,6 @@
       }
     },
     {
-      "id": "972",
-      "name": "J. Tah",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/972.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "149550",
       "name": "J. Tanganga",
       "firstname": "",
@@ -20127,31 +17877,6 @@
       }
     },
     {
-      "id": "231",
-      "name": "J. Teze",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/231.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "38746",
       "name": "J. Timber",
       "firstname": "",
@@ -20213,31 +17938,6 @@
         "id": "50",
         "name": "Manchester City",
         "logo": "https://media.api-sports.io/football/teams/50.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "203376",
-      "name": "J. Urbig",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/203376.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
       },
       "position": "Goalkeeper",
       "marketValue": "—",
@@ -20665,31 +18365,6 @@
         "logo": "https://media.api-sports.io/football/teams/798.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "432595",
-      "name": "Jannis Bärtl",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/432595.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -21238,31 +18913,6 @@
         "id": "39",
         "name": "Wolves",
         "logo": "https://media.api-sports.io/football/teams/39.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "335051",
-      "name": "João Neves",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/335051.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -22652,31 +20302,6 @@
       }
     },
     {
-      "id": "7334",
-      "name": "K. Adeyemi",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/7334.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "1119",
       "name": "K. Ajer",
       "firstname": "",
@@ -22738,56 +20363,6 @@
         "id": "45",
         "name": "Everton",
         "logo": "https://media.api-sports.io/football/teams/45.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "81",
-      "name": "K. Diatta",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/81.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "326068",
-      "name": "K. Doumbia",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/326068.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -22888,81 +20463,6 @@
         "id": "62",
         "name": "Sheffield Utd",
         "logo": "https://media.api-sports.io/football/teams/62.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "483",
-      "name": "K. Kvaratskhelia",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/483.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "1157",
-      "name": "K. Laimer",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/1157.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "22247",
-      "name": "K. Lala",
-      "firstname": "",
-      "lastname": "",
-      "age": 34,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/22247.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -23238,31 +20738,6 @@
         "id": "1359",
         "name": "Luton",
         "logo": "https://media.api-sports.io/football/teams/1359.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "333137",
-      "name": "K. Ouattara",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/333137.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -23727,31 +21202,6 @@
       }
     },
     {
-      "id": "2897",
-      "name": "Kim Min-Jae",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2897.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "70315",
       "name": "Kirian Rodríguez",
       "firstname": "",
@@ -23852,31 +21302,6 @@
       }
     },
     {
-      "id": "22264",
-      "name": "L. Ajorque",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/22264.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "346865",
       "name": "L. Amatucci",
       "firstname": "",
@@ -23902,31 +21327,6 @@
       }
     },
     {
-      "id": "174918",
-      "name": "L. Badé",
-      "firstname": "",
-      "lastname": "",
-      "age": 25,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/174918.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "983",
       "name": "L. Bailey",
       "firstname": "",
@@ -23940,31 +21340,6 @@
         "logo": "https://media.api-sports.io/football/teams/66.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "401333",
-      "name": "L. Baret",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/401333.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -24127,56 +21502,6 @@
       }
     },
     {
-      "id": "374058",
-      "name": "L. Camara",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/374058.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "162453",
-      "name": "L. Chevalier",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/162453.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "18872",
       "name": "L. Cook",
       "firstname": "",
@@ -24240,31 +21565,6 @@
         "logo": "https://media.api-sports.io/football/teams/49.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "2489",
-      "name": "L. Díaz",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2489.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -24402,31 +21702,6 @@
       }
     },
     {
-      "id": "511",
-      "name": "L. Goretzka",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/511.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "284492",
       "name": "L. Hall",
       "firstname": "",
@@ -24438,31 +21713,6 @@
         "id": "34",
         "name": "Newcastle",
         "logo": "https://media.api-sports.io/football/teams/34.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "33",
-      "name": "L. Hernández",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/33.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -24490,56 +21740,6 @@
         "logo": "https://media.api-sports.io/football/teams/62.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "963",
-      "name": "L. Hrádecký",
-      "firstname": "",
-      "lastname": "",
-      "age": 36,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/963.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "494131",
-      "name": "L. Karl",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/494131.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -24802,31 +22002,6 @@
       }
     },
     {
-      "id": "568316",
-      "name": "L. Prescott",
-      "firstname": "",
-      "lastname": "",
-      "age": 16,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/568316.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "138776",
       "name": "L. Ramazani",
       "firstname": "",
@@ -24865,31 +22040,6 @@
         "logo": "https://media.api-sports.io/football/teams/39.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "568225",
-      "name": "L. Reggiani",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/568225.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -25077,31 +22227,6 @@
       }
     },
     {
-      "id": "664",
-      "name": "L. Tousart",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/664.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "1946",
       "name": "L. Trossard",
       "firstname": "",
@@ -25277,31 +22402,6 @@
       }
     },
     {
-      "id": "422595",
-      "name": "L. Zogbe",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/422595.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "337955",
       "name": "Lalo Aguilar",
       "firstname": "",
@@ -25388,31 +22488,6 @@
         "id": "542",
         "name": "Alaves",
         "logo": "https://media.api-sports.io/football/teams/542.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "927",
-      "name": "Lee Kang-In",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/927.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -25540,31 +22615,6 @@
         "logo": "https://media.api-sports.io/football/teams/41.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "435089",
-      "name": "Leon Klanac",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/435089.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -25802,31 +22852,6 @@
       }
     },
     {
-      "id": "757",
-      "name": "Lucas Vázquez",
-      "firstname": "",
-      "lastname": "",
-      "age": 34,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/757.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "153719",
       "name": "Luís Asué",
       "firstname": "",
@@ -26052,56 +23077,6 @@
       }
     },
     {
-      "id": "274300",
-      "name": "M. Akliouche",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/274300.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "486522",
-      "name": "M. Albert",
-      "firstname": "",
-      "lastname": "",
-      "age": 16,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/486522.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "551462",
       "name": "M. Aleksandrov",
       "firstname": "",
@@ -26177,31 +23152,6 @@
       }
     },
     {
-      "id": "158644",
-      "name": "M. Beier",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/158644.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "19012",
       "name": "M. Bettinelli",
       "firstname": "",
@@ -26215,31 +23165,6 @@
         "logo": "https://media.api-sports.io/football/teams/50.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "283026",
-      "name": "M. Biereth",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/283026.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -26302,31 +23227,6 @@
       }
     },
     {
-      "id": "318416",
-      "name": "M. Broholm",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/318416.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "116117",
       "name": "M. Caicedo",
       "firstname": "",
@@ -26338,31 +23238,6 @@
         "id": "49",
         "name": "Chelsea",
         "logo": "https://media.api-sports.io/football/teams/49.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "568042",
-      "name": "M. Cardozo",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/568042.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -26415,81 +23290,6 @@
         "logo": "https://media.api-sports.io/football/teams/62.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "437767",
-      "name": "M. Costarelli",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/437767.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "419035",
-      "name": "M. Coulibaly",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/419035.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "444961",
-      "name": "M. Culbreath",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/444961.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -26640,31 +23440,6 @@
         "logo": "https://media.api-sports.io/football/teams/724.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "365742",
-      "name": "M. Diaz",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/365742.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -26852,56 +23627,6 @@
       }
     },
     {
-      "id": "340077",
-      "name": "M. Fernandez-Pardo",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/340077.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "26232",
-      "name": "M. Flekken",
-      "firstname": "",
-      "lastname": "",
-      "age": 32,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/26232.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "551355",
       "name": "M. Gambin",
       "firstname": "",
@@ -26940,31 +23665,6 @@
         "logo": "https://media.api-sports.io/football/teams/65.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "490745",
-      "name": "M. Goffi",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/490745.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -27088,31 +23788,6 @@
         "id": "48",
         "name": "West Ham",
         "logo": "https://media.api-sports.io/football/teams/48.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "568266",
-      "name": "M. James",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/568266.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
       },
       "position": "Goalkeeper",
       "marketValue": "—",
@@ -27677,31 +24352,6 @@
       }
     },
     {
-      "id": "497",
-      "name": "M. Neuer",
-      "firstname": "",
-      "lastname": "",
-      "age": 39,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/497.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "195121",
       "name": "M. Núñez",
       "firstname": "",
@@ -27765,81 +24415,6 @@
         "logo": "https://media.api-sports.io/football/teams/42.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "19617",
-      "name": "M. Olise",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/19617.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "483126",
-      "name": "M. Oyatambwe",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/483126.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "358103",
-      "name": "M. Pejazic",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/358103.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -28013,81 +24588,6 @@
         "id": "530",
         "name": "Atletico Madrid",
         "logo": "https://media.api-sports.io/football/teams/530.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "1159",
-      "name": "M. Sabitzer",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/1159.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "2068",
-      "name": "M. Safonov",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2068.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "47480",
-      "name": "M. Salisu",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/47480.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -28377,31 +24877,6 @@
       }
     },
     {
-      "id": "663",
-      "name": "M. Terrier",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/663.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "163189",
       "name": "M. Thiaw",
       "firstname": "",
@@ -28415,31 +24890,6 @@
         "logo": "https://media.api-sports.io/football/teams/34.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "162037",
-      "name": "M. Tillman",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/162037.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -28690,31 +25140,6 @@
         "logo": "https://media.api-sports.io/football/teams/45.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "41323",
-      "name": "Mama Baldé",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/41323.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -29452,31 +25877,6 @@
       }
     },
     {
-      "id": "257",
-      "name": "Marquinhos",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/257.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "391819",
       "name": "Martin Pedroarena",
       "firstname": "",
@@ -29577,31 +25977,6 @@
       }
     },
     {
-      "id": "630702",
-      "name": "Matah Yondjio",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/630702.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "108519",
       "name": "Mateu Morey",
       "firstname": "",
@@ -29690,31 +26065,6 @@
         "logo": "https://media.api-sports.io/football/teams/50.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "543469",
-      "name": "Mathis Jangeal",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/543469.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -30252,31 +26602,6 @@
       }
     },
     {
-      "id": "592218",
-      "name": "Mussa Kaba",
-      "firstname": "",
-      "lastname": "",
-      "age": 16,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/592218.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "18861",
       "name": "N. Aké",
       "firstname": "",
@@ -30313,31 +26638,6 @@
         "id": "534",
         "name": "Las Palmas",
         "logo": "https://media.api-sports.io/football/teams/534.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "409",
-      "name": "N. Bentaleb",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/409.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -30452,31 +26752,6 @@
       }
     },
     {
-      "id": "430816",
-      "name": "N. Edjouma",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/430816.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "26315",
       "name": "N. González",
       "firstname": "",
@@ -30515,81 +26790,6 @@
         "logo": "https://media.api-sports.io/football/teams/536.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "283058",
-      "name": "N. Jackson",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/283058.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "348052",
-      "name": "N. Jauny",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/348052.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "25168",
-      "name": "N. Lomb",
-      "firstname": "",
-      "lastname": "",
-      "age": 32,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/25168.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -30765,81 +26965,6 @@
         "logo": "https://media.api-sports.io/football/teams/530.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "375598",
-      "name": "N. Mukau",
-      "firstname": "",
-      "lastname": "",
-      "age": 21,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/375598.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "312964",
-      "name": "N. Ngoy",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/312964.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "567804",
-      "name": "N. Nsoki",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/567804.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -31040,81 +27165,6 @@
         "logo": "https://media.api-sports.io/football/teams/65.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "26243",
-      "name": "N. Schlotterbeck",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/26243.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "506",
-      "name": "N. Süle",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/506.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "231029",
-      "name": "N. Tella",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/231029.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -31477,31 +27527,6 @@
       }
     },
     {
-      "id": "263482",
-      "name": "Nuno Mendes",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/263482.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "2771",
       "name": "O. Aina",
       "firstname": "",
@@ -31602,31 +27627,6 @@
       }
     },
     {
-      "id": "153",
-      "name": "O. Dembélé",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/153.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "286601",
       "name": "O. El Hilali",
       "firstname": "",
@@ -31640,31 +27640,6 @@
         "logo": "https://media.api-sports.io/football/teams/540.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "2295",
-      "name": "O. Giroud",
-      "firstname": "",
-      "lastname": "",
-      "age": 39,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2295.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -31840,31 +27815,6 @@
         "logo": "https://media.api-sports.io/football/teams/44.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "99576",
-      "name": "O. Sahraoui",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/99576.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -32427,31 +28377,6 @@
       }
     },
     {
-      "id": "26395",
-      "name": "P. Drewes",
-      "firstname": "",
-      "lastname": "",
-      "age": 32,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/26395.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "551389",
       "name": "P. Fidel Cedillo Segura",
       "firstname": "",
@@ -32602,56 +28527,6 @@
       }
     },
     {
-      "id": "7313",
-      "name": "P. Köhn",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/7313.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "375990",
-      "name": "P. Mboup",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/375990.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "561063",
       "name": "P. Meixus",
       "firstname": "",
@@ -32702,31 +28577,6 @@
       }
     },
     {
-      "id": "904",
-      "name": "P. Pogba",
-      "firstname": "",
-      "lastname": "",
-      "age": 32,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/904.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "646886",
       "name": "P. Sanz",
       "firstname": "",
@@ -32765,31 +28615,6 @@
         "logo": "https://media.api-sports.io/football/teams/47.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "794",
-      "name": "P. Schick",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/794.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -33039,7 +28864,7 @@
         "name": "Granada CF",
         "logo": "https://media.api-sports.io/football/teams/715.png"
       },
-      "position": "Midfielder",
+      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -33090,56 +28915,6 @@
         "logo": "https://media.api-sports.io/football/teams/798.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "543470",
-      "name": "Pape Cabral",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/543470.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "386276",
-      "name": "Paris Josua  Brunner",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/386276.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -33388,31 +29163,6 @@
         "id": "728",
         "name": "Rayo Vallecano",
         "logo": "https://media.api-sports.io/football/teams/728.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "491087",
-      "name": "Pedro Fernández",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/491087.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -33827,31 +29577,6 @@
       }
     },
     {
-      "id": "471107",
-      "name": "Quentin Ndjantou Mbitcha",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/471107.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "21138",
       "name": "R. Aït-Nouri",
       "firstname": "",
@@ -33863,31 +29588,6 @@
         "id": "50",
         "name": "Manchester City",
         "logo": "https://media.api-sports.io/football/teams/50.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "24903",
-      "name": "R. Andrich",
-      "firstname": "",
-      "lastname": "",
-      "age": 31,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/24903.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -33965,31 +29665,6 @@
         "logo": "https://media.api-sports.io/football/teams/66.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "2194",
-      "name": "R. Bensebaïni",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2194.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -34138,31 +29813,6 @@
         "id": "35",
         "name": "Bournemouth",
         "logo": "https://media.api-sports.io/football/teams/35.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "2214",
-      "name": "R. Del Castillo",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/2214.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -34402,31 +30052,6 @@
       }
     },
     {
-      "id": "326073",
-      "name": "R. Labeau Lascary",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/326073.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "282125",
       "name": "R. Lavia",
       "firstname": "",
@@ -34440,31 +30065,6 @@
         "logo": "https://media.api-sports.io/football/teams/49.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "498791",
-      "name": "R. Le Guen",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/498791.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -34515,31 +30115,6 @@
         "logo": "https://media.api-sports.io/football/teams/50.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "40384",
-      "name": "R. Majecki",
-      "firstname": "",
-      "lastname": "",
-      "age": 26,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/40384.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -34788,31 +30363,6 @@
         "id": "724",
         "name": "Cadiz",
         "logo": "https://media.api-sports.io/football/teams/724.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "20600",
-      "name": "R. Perraud",
-      "firstname": "",
-      "lastname": "",
-      "age": 28,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/20600.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -35177,31 +30727,6 @@
       }
     },
     {
-      "id": "8",
-      "name": "Raphaël Guerreiro",
-      "firstname": "",
-      "lastname": "",
-      "age": 32,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/8.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "1496",
       "name": "Raphinha",
       "firstname": "",
@@ -35465,31 +30990,6 @@
         "logo": "https://media.api-sports.io/football/teams/35.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "437099",
-      "name": "Renato Bellucci",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/437099.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -36202,31 +31702,6 @@
       }
     },
     {
-      "id": "301771",
-      "name": "S. Adingra",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/301771.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "567998",
       "name": "S. Alabi",
       "firstname": "",
@@ -36552,56 +32027,6 @@
       }
     },
     {
-      "id": "162568",
-      "name": "S. Coulibaly",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/162568.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "487381",
-      "name": "S. Diaoune",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/487381.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "47527",
       "name": "S. Dimitrievski",
       "firstname": "",
@@ -36752,81 +32177,6 @@
       }
     },
     {
-      "id": "510",
-      "name": "S. Gnabry",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/510.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "21393",
-      "name": "S. Guirassy",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/21393.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "340152",
-      "name": "S. Idumbo-Muzambo",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/340152.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "551367",
       "name": "S. Imigene",
       "firstname": "",
@@ -36840,31 +32190,6 @@
         "logo": "https://media.api-sports.io/football/teams/537.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "478991",
-      "name": "S. Inacio",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/478991.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -37202,31 +32527,6 @@
       }
     },
     {
-      "id": "628358",
-      "name": "S. Nibombe",
-      "firstname": "",
-      "lastname": "",
-      "age": 18,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/628358.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "323591",
       "name": "S. Nypan",
       "firstname": "",
@@ -37290,56 +32590,6 @@
         "logo": "https://media.api-sports.io/football/teams/65.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "280463",
-      "name": "S. Ostrzinski",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/280463.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "24807",
-      "name": "S. Özcan",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/24807.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -37502,31 +32752,6 @@
       }
     },
     {
-      "id": "498",
-      "name": "S. Ulreich",
-      "firstname": "",
-      "lastname": "",
-      "age": 37,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/498.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "36922",
       "name": "S. van den Berg",
       "firstname": "",
@@ -37540,31 +32765,6 @@
         "logo": "https://media.api-sports.io/football/teams/55.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "630699",
-      "name": "Saad Boussadia",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/630699.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -37702,31 +32902,6 @@
       }
     },
     {
-      "id": "531323",
-      "name": "Samy Merzouk",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/531323.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "47324",
       "name": "Sandro Ramírez",
       "firstname": "",
@@ -37790,31 +32965,6 @@
         "logo": "https://media.api-sports.io/football/teams/50.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "409216",
-      "name": "Senny Mayulu",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/409216.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -38227,31 +33377,6 @@
       }
     },
     {
-      "id": "485957",
-      "name": "Serigne Diop",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/485957.png",
-      "team": {
-        "id": "106",
-        "name": "Stade Brestois 29",
-        "logo": "https://media.api-sports.io/football/teams/106.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "359117",
       "name": "Shumaira Mheuka",
       "firstname": "",
@@ -38640,31 +33765,6 @@
         "logo": "https://media.api-sports.io/football/teams/45.png"
       },
       "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "325975",
-      "name": "T. Bischof",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/325975.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -39227,31 +34327,6 @@
       }
     },
     {
-      "id": "261",
-      "name": "T. Kehrer",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/261.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "82855",
       "name": "T. King",
       "firstname": "",
@@ -39390,56 +34465,6 @@
         "logo": "https://media.api-sports.io/football/teams/1359.png"
       },
       "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "264",
-      "name": "T. Meunier",
-      "firstname": "",
-      "lastname": "",
-      "age": 34,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/264.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "1101",
-      "name": "T. Minamino",
-      "firstname": "",
-      "lastname": "",
-      "age": 30,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/1101.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Attacker",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -39602,31 +34627,6 @@
       }
     },
     {
-      "id": "280091",
-      "name": "T. Oermann",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/280091.png",
-      "team": {
-        "id": "168",
-        "name": "Bayer Leverkusen",
-        "logo": "https://media.api-sports.io/football/teams/168.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "351587",
       "name": "T. Oluwaseyi",
       "firstname": "",
@@ -39690,31 +34690,6 @@
         "logo": "https://media.api-sports.io/football/teams/50.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "551417",
-      "name": "T. Sajous",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/551417.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -39963,31 +34938,6 @@
         "id": "532",
         "name": "Valencia",
         "logo": "https://media.api-sports.io/football/teams/532.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "379329",
-      "name": "Tiago Santos",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/379329.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -40777,31 +35727,6 @@
       }
     },
     {
-      "id": "610483",
-      "name": "V. Manuba",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/610483.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "50048",
       "name": "V. Muriqi",
       "firstname": "",
@@ -40988,31 +35913,6 @@
         "id": "534",
         "name": "Las Palmas",
         "logo": "https://media.api-sports.io/football/teams/534.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "291649",
-      "name": "Vanderson",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/291649.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -41227,31 +36127,6 @@
       }
     },
     {
-      "id": "128384",
-      "name": "Vitinha",
-      "firstname": "",
-      "lastname": "",
-      "age": 25,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/128384.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "414359",
       "name": "Vitor Nunes",
       "firstname": "",
@@ -41288,31 +36163,6 @@
         "id": "1359",
         "name": "Luton",
         "logo": "https://media.api-sports.io/football/teams/1359.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "25368",
-      "name": "W. Anton",
-      "firstname": "",
-      "lastname": "",
-      "age": 29,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/25368.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
       },
       "position": "Defender",
       "marketValue": "—",
@@ -41427,31 +36277,6 @@
       }
     },
     {
-      "id": "8694",
-      "name": "W. Faes",
-      "firstname": "",
-      "lastname": "",
-      "age": 27,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/8694.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "22094",
       "name": "W. Fofana",
       "firstname": "",
@@ -41488,31 +36313,6 @@
         "id": "52",
         "name": "Crystal Palace",
         "logo": "https://media.api-sports.io/football/teams/52.png"
-      },
-      "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "496738",
-      "name": "W. Mike",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/496738.png",
-      "team": {
-        "id": "157",
-        "name": "Bayern München",
-        "logo": "https://media.api-sports.io/football/teams/157.png"
       },
       "position": "Midfielder",
       "marketValue": "—",
@@ -41602,31 +36402,6 @@
       }
     },
     {
-      "id": "16367",
-      "name": "W. Pacho",
-      "firstname": "",
-      "lastname": "",
-      "age": 24,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/16367.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Defender",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "22090",
       "name": "W. Saliba",
       "firstname": "",
@@ -41690,31 +36465,6 @@
         "logo": "https://media.api-sports.io/football/teams/529.png"
       },
       "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "336657",
-      "name": "W. Zaïre-Emery",
-      "firstname": "",
-      "lastname": "",
-      "age": 19,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/336657.png",
-      "team": {
-        "id": "85",
-        "name": "Paris Saint Germain",
-        "logo": "https://media.api-sports.io/football/teams/85.png"
-      },
-      "position": "Midfielder",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -41977,56 +36727,6 @@
       }
     },
     {
-      "id": "368065",
-      "name": "Y. Lachaab",
-      "firstname": "",
-      "lastname": "",
-      "age": 20,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/368065.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Attacker",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "274296",
-      "name": "Y. Lienard",
-      "firstname": "",
-      "lastname": "",
-      "age": 22,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/274296.png",
-      "team": {
-        "id": "91",
-        "name": "Monaco",
-        "logo": "https://media.api-sports.io/football/teams/91.png"
-      },
-      "position": "Goalkeeper",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
       "id": "383685",
       "name": "Y. Minteh",
       "firstname": "",
@@ -42165,31 +36865,6 @@
         "logo": "https://media.api-sports.io/football/teams/55.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "197448",
-      "name": "Yan Couto",
-      "firstname": "",
-      "lastname": "",
-      "age": 23,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/197448.png",
-      "team": {
-        "id": "165",
-        "name": "Borussia Dortmund",
-        "logo": "https://media.api-sports.io/football/teams/165.png"
-      },
-      "position": "Defender",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
@@ -42515,31 +37190,6 @@
         "logo": "https://media.api-sports.io/football/teams/1359.png"
       },
       "position": "Midfielder",
-      "marketValue": "—",
-      "stats": {
-        "appearances": 0,
-        "goals": 0,
-        "assists": 0,
-        "minutes": 0,
-        "rating": "—",
-        "yellowCards": 0,
-        "redCards": 0
-      }
-    },
-    {
-      "id": "628379",
-      "name": "Zadig Lanssade",
-      "firstname": "",
-      "lastname": "",
-      "age": 17,
-      "nationality": "",
-      "photo": "https://media.api-sports.io/football/players/628379.png",
-      "team": {
-        "id": "79",
-        "name": "Lille",
-        "logo": "https://media.api-sports.io/football/teams/79.png"
-      },
-      "position": "Goalkeeper",
       "marketValue": "—",
       "stats": {
         "appearances": 0,
