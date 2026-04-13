@@ -34,7 +34,7 @@ if (!key) {
 const BASE = "https://v3.football.api-sports.io";
 const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 const season = new Date().getFullYear();
-const leagueIds = [39, 140, 2, 203, 78, 135, 61];
+const leagueIds = [39]; // faqat EPL
 
 async function api(pathname, params = {}) {
   const url = new URL(`${BASE}${pathname}`);
@@ -90,7 +90,7 @@ function toProfile(player, team) {
 async function main() {
   const map = new Map();
   let hitRateLimit = false;
-  const seasons = [season, season - 1, season - 2, season - 3].filter(
+  const seasons = [season].filter(
     (s, i, arr) => s >= 2022 && arr.indexOf(s) === i
   );
   for (const leagueId of leagueIds) {
@@ -99,6 +99,7 @@ async function main() {
       let teamsData;
       try {
         teamsData = await api("/teams", { league: leagueId, season: s });
+        await delay(7000); // 🔥 SHART
       } catch (err) {
         const message = err instanceof Error ? err.message : String(err);
         if (message.includes("request limit for the day")) {

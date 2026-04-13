@@ -27,9 +27,7 @@ export function SearchClient() {
     setError(null);
     setHint(null);
     try {
-      const res = await fetch(
-        `/api/players/search?q=${encodeURIComponent(t)}`,
-      );
+      const res = await fetch(`/api/players?q=${query}`)
       if (!res.ok) {
         throw new Error("Failed to search players.");
       }
