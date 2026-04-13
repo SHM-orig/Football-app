@@ -99,6 +99,7 @@ async function main() {
       let teamsData;
       try {
         teamsData = await api("/teams", { league: leagueId, season: s });
+        await delay(7000); // 🔥 SHART
       } catch (err) {
         const message = err instanceof Error ? err.message : String(err);
         if (message.includes("request limit for the day")) {
